@@ -1,3 +1,5 @@
+import random
+
 #Técnicas de Programação
 #Atividade N1
 
