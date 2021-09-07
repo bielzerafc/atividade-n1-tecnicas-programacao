@@ -57,3 +57,4 @@ while True:
             else:
                 sala += 2
                 caminhoPv = 0
+                
