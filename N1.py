@@ -25,7 +25,7 @@ while True:
         print ("[1] - Caminho vermelho")
         print ("[2] - Caminho preto")
         caminhoPv = int(input())
-         while caminhoPv <= 0 or caminhoPv >= 3:
+        while caminhoPv <= 0 or caminhoPv >= 3:
             print("\nCaminho inválido!\n Você Deve escolher um caminho 'vermelho' ou 'preto'\n")
             print ("Você está na sala: {}".format(sala))    
             print ("Escolha seu caminho: ")
